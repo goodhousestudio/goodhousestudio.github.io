@@ -1,0 +1,88 @@
+body
+{
+	margin: 0;
+	padding: 0;
+    font-family: 'Cousine', sans-serif;
+    overflow:hidden;
+}
+
+
+.wrap {
+    height: 100%;
+    width: 100%;
+}
+
+.about
+{
+    display:inline-block;
+    float:top;
+    position:fixed;
+    height: 100px;
+    width:100%;
+    
+    background-color:#fdfceb;
+    
+    color:#404a3f;
+    text-align: center;
+    
+}
+
+.contact
+{
+    text-align: center;
+}
+
+.projects
+{
+    display: inline-block;
+    float: bottom;
+    position:relative;
+    height:500;
+    width:100%;
+    margin-top:100px;
+    overflow:auto;
+    
+    background-color:#fdfceb;
+    color:#366946;
+}
+
+.gamz
+{
+    padding-left: 200px;
+    margin: auto;
+}
+
+
+.description
+{
+    display:inline;
+    position:absolute;
+    float:right;
+    margin-left:50px;
+    margin-right:200px;
+}
+
+
+.header
+{
+    display:inline-block;
+}
+
+.title
+{
+    float:left;
+    text-transform:uppercase;
+}
+
+.date
+{
+    float:right;
+    display:inline-block;
+}
+
+.info
+{
+    display:inline-block;
+    text-align:left;
+    margin:auto;
+}
