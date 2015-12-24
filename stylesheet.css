@@ -2,6 +2,7 @@
 body
 {
 	margin: 0;
+    background-color:#fdfceb;
     font-family: 'Cousine', sans-serif;
 }
 
@@ -20,9 +21,10 @@ body
     display:inline-block;
     width:100%;
     top-margin:300px;
+    border-bottom: 2px solid #c14837;
     
     background-color:#fdfceb;
-    color:#404a3f;
+    color:black;
 }
 
 .logo
