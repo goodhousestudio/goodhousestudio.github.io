@@ -15,7 +15,7 @@ body
 {
     display:inline-block;
     float:top;
-    position:fixed;
+    position:static;
     height: 100px;
     width:100%;
     overflow: hidden;
